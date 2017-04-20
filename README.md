@@ -4,7 +4,7 @@ body{
 background-image: url("https://s-media-cache-ak0.pinimg.com/564x/2e/91/0f/2e910f64d86ddc7cae75a8f6f928a67e.jpg")}
 </style>
 <body>
-<b><h1 style="color:red">Indian Navy</h1></b>
+<b><h1 style="color:red">Indian Army</h1></b>
 <table>
 <tr>
 <th><b>TAG</b></th>
@@ -17,7 +17,7 @@ background-image: url("https://s-media-cache-ak0.pinimg.com/564x/2e/91/0f/2e910f
 <td>FOUND</td>
 <td>The Page title length of your page is 31 characters.</td>
 <td>Most search engines will truncate Page title to 65 characters.
-<br>⟩⟩ Official website of Indian Navy
+<br>⟩⟩ Official website of Indian Army
 </td>
 </tr>
 <tr>
@@ -37,8 +37,8 @@ But here ,
 <tr>
 <td>Google Search Results Preview</td>
 <td>-Info- </td>
-<td>Indian Navy.</td>
-<td><a href="https://www.indiannavy.nic.in/"><b>SEARCH</b></a>
+<td>Indian Army</td>
+<td><a href="https://www.indianarmy.nic.in/"><b>SEARCH</b></a>
         </td>
 </tr>
 <tr>
