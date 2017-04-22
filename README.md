@@ -1,10 +1,10 @@
 <html>
 <style>
 body{
-background-image: url("https://s-media-cache-ak0.pinimg.com/564x/2e/91/0f/2e910f64d86ddc7cae75a8f6f928a67e.jpg")}
+background-image: url("http://www.planwallpaper.com/static/images/cube-chamber-4303-1920x1200_N94G8wf.jpg")}
 </style>
 <body>
-<b><h1 style="color:red">Indian Army</h1></b>
+<b><h1 style="color:white">Indian Army</h1></b>
 <table>
 <tr>
 <th><b>TAG</b></th>
