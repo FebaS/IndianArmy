@@ -22,8 +22,8 @@ background-image: url("https://s-media-cache-ak0.pinimg.com/564x/2e/91/0f/2e910f
 </tr>
 <tr>
 <td>Meta Description</td> 
-<td>FOUND </td>
-<td>The meta description length of this page 11 characters.</td>
+<td>NOT FOUND </td>
+<td>No meta description in this website.</td>
 <td>Most search engines will truncate meta descriptions to 160 characters.</td>
 </tr>
 <tr>
@@ -43,24 +43,16 @@ But here ,
 </tr>
 <tr>
 <td> h1 Headings Status</td>
-<td> FOUND </td>
-<td>Your page contains H1 headings.Their contents are listed below:<br>
- ⟩⟩ Indian Navy Professional Force
-..</td>
+<td> NOT FOUND </td>
+<td>Your page does not contain any H1 headings.<br>
+</td>
 <td>The h1 tag should contain your targeted keywords, ones that closely relate to the page title and are relevant to our content. </td>
 </tr>
 <tr>
 <td> h2 Headings Status</td>
-<td> FOUND </td>
-<td>Your page contains H2 headings. Their contents are listed below:<br>
-⟩⟩ Search form
-⟩⟩ Admiral Vladimir Korolev, Commander-in-Chief, Russian Federation Navy visits India
-⟩⟩ Longest Serving Warship of the world "INS Viraat" gets Decommissioned
-⟩⟩ Navy's Theatre Level Exercise, TROPEX 17
-⟩⟩ Admiral Sunil Lanba Receives Baton of Chairman, Chiefs of Staff Committee
-⟩⟩ Exercise With Foreign Navy
-⟩⟩ Indian Navy Aircrafts in Formation
-⟩⟩ Indian Navy Ships fueling at Sea</td>
+<td> NOT FOUND </td>
+<td>Your page does not any contains H2 headings.<br>
+</td>
 <td>The h2 tag is a subheading and should contain similar keywords to h1 tag. </td>
 </tr>
 <tr>
@@ -72,20 +64,20 @@ But here ,
 <tr>
 <td> Site Map </td>
 <td> 1 sitemap found </td>
-<td> <a href="https://www.indiannavy.nic.in/sitemap.xml"> <b> Sitemap </b></a> </td>
+<td> <a href="https://indianarmy.nic.in/sitemap.xml"> <b> Sitemap </b></a> </td>
 <td>A sitemap is a list of pages of a web site accessible to crawlers or users.It is good to have sitemap
  Adding a multiple sitemap structure does not guarantee better indexation or more traffic.</td>
 </tr>
 <tr>
 <td>Broken Links Test</td>
 <td>OK</td>
-<td>From 165 distinct anchor links analyzed, none of them appears to be broken. </td>
+<td>From 220 distinct anchor links analyzed, none of them appears to be broken. </td>
 <td>It is good to have no broken links.</td>
 </tr>
 <tr>
 <td>Image Alt Test</td>
 <td>NOT FOUND</td>
-<td>This webpage has 52 'img' tags and 5 of them missing the required 'alt' attribute </td>
+<td>This webpage has 43 'img' tags and 36 of them missing the required 'alt' attribute </td>
 <td>'alt' attribute must be used with all 'img' tags.</td>
 </tr>
 <tr>
@@ -95,21 +87,21 @@ But here ,
 <td>it should use good Css styles</td> 
 </tr>
 <tr>
-<td>Underscores in Links Test	</td>
+<td>Underscores in Links Test</td>
 <td>Very Good</td>
 <td>We have not found underscores in this in-page URLs</td>
 <td>Hyphens should be used instead of underscores.So this site does not use any underscores.</td>
 </tr>
 <tr>
 <td> Favicon Test </td>
-<td>Found </td>
-<td>This website appears to have a favicon.</td>
-<td>Webpage can be easily recognized through Favicon.So This website should use favicone.</td>
+<td>NOT FOUND</td>
+<td>This website do not have a favicon</td>
+<td>Webpage can be easily recognized through Favicon.So website should use favicon.</td>
 </tr>
 <tr>
 <td>SEO Friendly URL Test</td>
 <td>Not Good</td>
-<td> 9 internal urls found that are not seo friendly</td>
+<td> 209 internal urls found that are not seo friendly.</td>
 <td>An SEO friendly url must contain only lower alphabets, numbers, slashes(/), dash(-). <br>
 <b>Underscores, upercase Alphabets and special chars (e-g: & ? %) are not seo friendly</b>.</td>
 </tr>
@@ -120,7 +112,7 @@ But here ,
 <td>More backlinks need to be used to increase PR.</td>
 </tr>
 <tr>
-  <td>Page size</td><td >Very light</td><td >Page size is 77.58KB</td><td>The heavier the site page, the slower the load. For optimal performance, try to keep page size below 3MB</td>
+  <td>Page size</td><td >Very light</td><td >Page size is 33 B</td><td>The heavier the site page, the slower the load. For optimal performance, try to keep page size below 3MB</td>
         </tr>
 </table>
 <p>
@@ -140,7 +132,7 @@ But here ,
     <tr>
       <td><b>Age</b></td><td>12 Years,</td> </tr>
     <tr>
-      <td><b>Last Updated</b></td><td>04-Oct-2016 09:54:10 UTC</td>
+      <td><b>Last Updated</b></td><td>23-Dec-2016 22:31:58 UTC</td>
     </tr>
 </table>
 <p>
