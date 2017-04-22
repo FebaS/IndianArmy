@@ -112,7 +112,7 @@ But here ,
 <td>More backlinks need to be used to increase PR.</td>
 </tr>
 <tr>
-  <td>Page size</td><td >Very light</td><td >Page size is 33 B</td><td>The heavier the site page, the slower the load. For optimal performance, try to keep page size below 3MB</td>
+  <td>Page size</td><td >Very light</td><td >Page size is 33 KB</td><td>The heavier the site page, the slower the load. For optimal performance, try to keep page size below 3MB</td>
         </tr>
 </table>
 <p>
